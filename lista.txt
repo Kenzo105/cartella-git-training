@@ -2,3 +2,5 @@
 
 -patate
 -olio
+-sale
+-uova
